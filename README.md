@@ -1,0 +1,1 @@
+Patika Academy'deki Java 101 egzersizlerini bu repoda toplayacağım.
