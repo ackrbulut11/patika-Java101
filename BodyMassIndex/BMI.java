@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class BMI{
     
+    @SuppressWarnings("resource")
     public static String bmiHesapla() {
         Scanner input = new Scanner(System.in);
     
