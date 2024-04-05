@@ -1,0 +1,1 @@
+#### Bu egzersizde kullanıcıdan dik üçgenin dik iki kenarının uzunluğunu alıp hipotenüsü hesaplayan bir program yazdım.
