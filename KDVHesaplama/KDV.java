@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class KDV {
+    @SuppressWarnings("resource")
     public static void main(String[] args) throws Exception {
 
         double fiyat;
