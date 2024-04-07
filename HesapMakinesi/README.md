@@ -1,0 +1,1 @@
+#### Switch case ifadelerini kullanarak çok basit bir hesap makinesi yaptım. 
