@@ -1,0 +1,1 @@
+#### Girilen 3 sayıyı "büyükten küçüğe" sıralayan programı yazdım. Girilen girdinin sayı olmaması halinde uyarı verecek şekilde try-catch komutunu kullandım. 
