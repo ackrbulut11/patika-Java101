@@ -1,0 +1,1 @@
+#### Hava sıcaklıklarına göre aktivite öneren bir program. 
