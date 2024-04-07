@@ -2,6 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class AktiviteTavsiye {
+    @SuppressWarnings("resource")
     public static void main(String[] args){
 
         Scanner input = new Scanner(System.in);
